@@ -1,6 +1,6 @@
 class Tags:
   def __init__(self):
-    #
+    #Инициализация модуля тем
 
   def CreateTags(self):
     #Модуль создания темы
